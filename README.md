@@ -33,3 +33,35 @@ Exemplo sem versão:
 - Identifique a representação mínima (mas completa) do state da UI
 - Identifique onde o state deve ficar
 - Adicione o fluxo de dados inverso
+
+## Quiz
+### Quais são principais conceitos do webpack?
+Entry, Output, Loaders, Plugins e Mode.
+
+### Quais são as etapas e a ordem correta do ciclo de vida de um componente?
+Inicialização; Montagem; Atualização; Desmontagem.
+
+### Como é feito a renderização de um componente React no DOM?
+Utilizando o ReactDOM.render.
+
+### A respeito de Manipulação de Eventos, qual alternativa abaixo é a correta?
+Eventos em React são nomeados usando camelCase ao invés de letras minúsculas.
+
+### O que são Loaders na configuração do webpack?
+É uma configuração que permite que o webpack gerencie arquivos que não são JavaScript.
+
+### A respeito de “if inline com o Operador Lógico &&”, qual alternativa abaixo é a correta para renderizar um componente?
+{hasCustomer && (<Component />)}
+
+### O que é webpack?
+É um module bundlers (um empacotador de módulos para aplicações JS).
+
+### O que é o React?
+Uma biblioteca JavaScript para criar interfaces de usuário.
+
+### Ao executar o código abaixo, qual parâmetro deve ser informado para que o React não retorne um aviso? 
+>const numbers = [1, 2, 3, 4, 5]; const listItems = numbers.map((number) =>  <li>{number}</li> );
+Necessário informar o parâmetro key no elemento <li>.
+  
+### A respeito de React, é correto afirmar que:
+React é uma biblioteca onde é uma boa prática criar vários componentes e elementos para deixar o código mais legível e reaproveitável.
