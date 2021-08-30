@@ -60,7 +60,7 @@ Eventos em React são nomeados usando camelCase ao invés de letras minúsculas.
 Uma biblioteca JavaScript para criar interfaces de usuário.
 
 ### Ao executar o código abaixo, qual parâmetro deve ser informado para que o React não retorne um aviso? 
->const numbers = [1, 2, 3, 4, 5]; const listItems = numbers.map((number) =>  <li>{number}</li> );
+### const numbers = [1, 2, 3, 4, 5]; const listItems = numbers.map((number) =>  <li>{number}</li> );
 Necessário informar o parâmetro key no elemento <li>.
   
 ### A respeito de React, é correto afirmar que:
