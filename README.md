@@ -19,6 +19,6 @@ Exemplo sem versão:
 >npm install --save-dev eslint babel-eslint eslint-plugin-react eslint-watch 
 
 ## Documentações
-[Renderizando elementos](https://pt-br.reactjs.org/docs/rendering-elements.html)
-[Componentes e Props](https://pt-br.reactjs.org/docs/components-and-props.html)
-[Webpack](https://medium.com/tableless/webpack-para-react-o-guia-final-cb8a95b369ed)
+- [Renderizando elementos](https://pt-br.reactjs.org/docs/rendering-elements.html)
+- [Componentes e Props](https://pt-br.reactjs.org/docs/components-and-props.html)
+- [Webpack](https://medium.com/tableless/webpack-para-react-o-guia-final-cb8a95b369ed)
