@@ -25,3 +25,11 @@ Exemplo sem versão:
 - [Renderização condicional](https://pt-br.reactjs.org/docs/conditional-rendering.html)
 - [Listas e chaves](https://pt-br.reactjs.org/docs/lists-and-keys.html)
 - [Manipulando eventos](https://pt-br.reactjs.org/docs/handling-events.html)
+
+## Pensando do jeito React
+- Comece com um Mock
+- Separe a UI em uma hierarquia de componentes
+- Crie uma versão estática em React
+- Identifique a representação mínima (mas completa) do state da UI
+- Identifique onde o state deve ficar
+- Adicione o fluxo de dados inverso
