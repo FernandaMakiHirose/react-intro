@@ -63,7 +63,7 @@ Uma biblioteca JavaScript para criar interfaces de usuário.
 ```
 Código: const numbers = [1, 2, 3, 4, 5]; const listItems = numbers.map((number) =>  <li>{number}</li> ); 
 ```
-Necessário informar o parâmetro key no elemento <li>.
+Necessário informar o parâmetro key no elemento `<li>`.
   
 ### A respeito de React, é correto afirmar que:
 React é uma biblioteca onde é uma boa prática criar vários componentes e elementos para deixar o código mais legível e reaproveitável.
