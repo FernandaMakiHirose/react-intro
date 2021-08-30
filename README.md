@@ -23,3 +23,5 @@ Exemplo sem versão:
 - [Componentes e Props](https://pt-br.reactjs.org/docs/components-and-props.html)
 - [Webpack](https://medium.com/tableless/webpack-para-react-o-guia-final-cb8a95b369ed)
 - [Renderização condicional](https://pt-br.reactjs.org/docs/conditional-rendering.html)
+- [Listas e chaves](https://pt-br.reactjs.org/docs/lists-and-keys.html)
+- [Manipulando eventos](https://pt-br.reactjs.org/docs/handling-events.html)
