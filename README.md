@@ -6,11 +6,11 @@ Vá no terminal e digite:
 Exemplo com versão:
 >npm install --save react@17.0.2 react-dom@17.0.2 react-scripts@3.0.1
 
-[Versão - ReactJS](https://pt-br.reactjs.org/versions/) 
-[Versão - ReactJS Scripts](https://openbase.com/js/react-scripts/versions)
-
 Exemplo sem versão:
 >npm install --save react react-dom
+
+- [Versão - ReactJS](https://pt-br.reactjs.org/versions/) 
+- [Versão - ReactJS Scripts](https://openbase.com/js/react-scripts/versions)
 
 ## Abrir projeto no navegador
 >npm start
