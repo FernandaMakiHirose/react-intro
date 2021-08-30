@@ -22,3 +22,4 @@ Exemplo sem versão:
 - [Renderizando elementos](https://pt-br.reactjs.org/docs/rendering-elements.html)
 - [Componentes e Props](https://pt-br.reactjs.org/docs/components-and-props.html)
 - [Webpack](https://medium.com/tableless/webpack-para-react-o-guia-final-cb8a95b369ed)
+- [Renderização condicional](https://pt-br.reactjs.org/docs/conditional-rendering.html)
