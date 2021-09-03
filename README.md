@@ -3,6 +3,9 @@
 - IDE
 - Conhecimento em JavaScript e React
 
+## Licença
+Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
+
 ## Criar projeto
 Vá no terminal e digite:
 >npm init
